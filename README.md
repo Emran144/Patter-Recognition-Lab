@@ -2,7 +2,7 @@
 
 MNIST is one of the famous datasets used by members of the AI/ML/Data Science community. They love this dataset and use it as a benchmark to validate their algorithms. Fashion-MNIST is a direct drop-in replacement for the original MNIST dataset. In our project we want to predict real life images through the labels from this trending dataset in Kaggle.
 
-#Our proposed Approach 
+## Our proposed Approach 
 
 We have used Convolutional Neural Network (CNN) over Fashion-MNIST dataset to establish our model. Though this dataset is almost processed, we had to make slight changes or we’d preprocessed for the input to our model. Tensorflow is the state of the art library that we’ve used here. 
 
